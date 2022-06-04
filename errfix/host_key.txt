@@ -1,0 +1,1 @@
+C:\Users\Asus>C:\Users\Asus\AppData\Local\SourceTree\app-3.4.9\tools\putty\plink.exe github.com
